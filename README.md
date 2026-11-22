@@ -1,2 +1,2 @@
 # devops-project
-github basic
+git basic(commonds)
